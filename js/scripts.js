@@ -7,6 +7,14 @@
 // Scripts
 // 
 
+<script> 
+    
+    function btn(){ 
+    alert('참석할꺼쥬?'); 
+} 
+</script>
+
+
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
